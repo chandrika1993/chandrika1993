@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-I design and build **AI-enabled products and autonomous workflows** with a strong focus on scalability, reliability, and user-centric UX.  
-Currently based in Germany 🇩🇪 with 6+ years of industry experience across startups and enterprise systems.
+**Senior Full Stack Engineer & Team Lead** based in Germany 🇩🇪 with 6+ years of experience building scalable web applications and AI-driven automation systems.
+I have lead engineering teams to deliver production-ready features, integrating LLMs and cloud-native architectures, while ensuring reliability, user-centric UX, clean code, and measurable business impact.
 
 ---
 
