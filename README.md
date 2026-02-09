@@ -89,7 +89,7 @@ LLM APIs (OpenAI, Claude, Google Gemini, DeepL, Hugging Face) | Workflow Automat
 <p align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: nowrap; gap: 4px;">
   <!-- Denver stats -->
   <a href="https://github.com/chandrika1993">
-    <img alt="GitHub Stats (Denvercoder1)" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chandrika1993&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="48%" />
+    <img alt="GitHub Stats (Denvercoder1)" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chandrika1993&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="190px" width="48%" />
   </a>
 
   <!-- Streak stats -->
