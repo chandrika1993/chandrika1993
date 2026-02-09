@@ -1,6 +1,6 @@
 ## Hi there 👋
 # **Senior Full Stack Engineer · Engineering Team Lead**  
-Full Stack Developer | React | Angular | Ionic | TypeScript | JavaScript | Node.js | Vite | TailwindCSS | Firebase
+Full Stack Developer | React | Angular | Ionic | TypeScript | JavaScript | Node.js | Vite | TailwindCSS | Firebase | Java | SpringBoot | Microservices | REST API's
 <!--
 **chandrika1993/chandrika1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
