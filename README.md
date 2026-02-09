@@ -20,12 +20,10 @@ I have lead engineering teams to deliver production-ready features, integrating 
 - **Developer tooling** and open-source projects around LLM integration or cloud infrastructure  
 
 ### 💬 Ask me about
-- Full-stack architecture & system design  
-- LLM API integration and AI workflows  
+- Full-stack architecture, LLM API integration and AI workflows  
 - Firebase & Google Cloud Platform  
 - Leading engineering teams and shipping production systems  
 
----
 
 ## 🌐 Socials
 <p align="left">
@@ -41,6 +39,16 @@ I have lead engineering teams to deliver production-ready features, integrating 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🚀 Key Projects
+- **AI Job Automation (MONA AI)** – Built LLM-powered job offer generator & automated candidate workflows, increasing pipeline velocity 3x
+- **ZKE BurgerApp (Neocosmo GmbH)** - Frontend Development of public facing Ionic App deployed on App Store and Android Store
+- **Academic Portfolio Website** – Developed responsive portfolio with Angular & Firebase; optimized SEO and analytics  
+- **Friend Management System** – Personalized social network with Java/Spring Boot, deployed on PCF Cloud Foundry  
+
+---
 
 # 💻 Tech Stack
 
@@ -78,7 +86,7 @@ LLM APIs (OpenAI, Claude, Google Gemini, DeepL, Hugging Face) | Workflow Automat
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/>
  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/>
  <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" />
- 
+
 # 📊 GitHub Stats
 
 ### GitHub Contribution Chart
@@ -100,6 +108,7 @@ LLM APIs (OpenAI, Claude, Google Gemini, DeepL, Hugging Face) | Workflow Automat
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%">
 </a> 
 
+---
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
