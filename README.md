@@ -1,22 +1,9 @@
-## Hi there 👋
-# **Senior Full Stack Engineer · Engineering Team Lead**  
+<h1><a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> Hello, I'm Chandrika Mohan</h1>
+<h3>Senior Full Stack Engineer · Engineering Team Lead</h3>  
 Full Stack Developer | React | Angular | Ionic | TypeScript | JavaScript | Node.js | Vite | TailwindCSS | Firebase | Java | SpringBoot | Microservices | REST API's
-<!--
-**chandrika1993/chandrika1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 💫 About Me:
+# 💫 About Me
 
 **Senior Full Stack Engineer & Team Lead** based in Germany 🇩🇪 with 6+ years of experience building scalable web applications and AI-driven automation systems.
 I have lead engineering teams to deliver production-ready features, integrating LLMs and cloud-native architectures, while ensuring reliability, user-centric UX, clean code, and measurable business impact.
@@ -42,21 +29,31 @@ I have lead engineering teams to deliver production-ready features, integrating 
 
 ---
 
-## 🌐 Socials:
-- 🌍 Portfolio: [chandrikamohan.com](https://chandrikamohan.com)
-- 💼 LinkedIn: https://linkedin.com/in/chandrikamohan [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrikamohan) 
-- 📫 Email: chandrikamohan@rocketmail.com [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandrikamohan@rocketmail.com) 
-
+## 🌐 Socials
+<p align="left">
+  <a href="https://chandrikamohan.com">
+    <img src="https://img.shields.io/badge/chandrikamohan.com-8A2BE2?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/chandrikamohan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:chandrikamohan@rocketmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 # 💻 Tech Stack
 
 ### 🖥 Frontend
 Angular | React | Vue | TypeScript | JavaScript | Ionic  
 [![Frontend](https://skillicons.dev/icons?i=angular,react,vue,typescript,javascript)](https://skillicons.dev) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) 
+[![Design](https://skillicons.dev/icons?i=html,css,scss,tailwind,materialui,figma)](https://skillicons.dev)
 
 ### 🎨 Design & UI
 HTML5 | CSS3 | TailwindCSS | Material UI | Figma  
-[![Design](https://skillicons.dev/icons?i=html,css,tailwind,materialui,figma)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=html,css,scss,tailwind,materialui,figma)](https://skillicons.dev)
 
 ### ⚙ Backend
 Node.js | Express.js | Java | Spring Boot  
@@ -80,7 +77,13 @@ Playwright | Jest | JUnit | Mockito
 ### 🤖 AI & Automation
 LLM APIs (OpenAI, Claude, DeepL) | Workflow Automation
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+
+### GitHub Contribution Chart
+<a href="https://github.com/chandrika1993">
+    <img src="https://ghchart.rshah.org/chandrika1993" alt="Chandrika Mohan's GitHub Contribution Chart">
+</a>
+
 ![](https://github-readme-stats.vercel.app/api?username=ChandrikaMohan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ChandrikaMohan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandrikaMohan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
