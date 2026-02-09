@@ -11,14 +11,13 @@ I have lead engineering teams to deliver production-ready features, integrating 
 ---
 
 ### 🔭 What I’m working on
-- Scalable Full-stack Web and Mobile applications using TypeScript, React/ Angular, Ionic, Node.js, and Google Cloud Platform
-- AI-native automation platforms and LLM-powered features  ]  
-- Improving reliability through test-driven, end-to-end development  
+- Building **full-stack web & mobile applications** with TypeScript, React/Angular, Ionic, Node.js, and Google Cloud Platform  
+- Developing **AI-native automation platforms** and **LLM-powered features** for scalable workflows  
+- Improving **system reliability** through test-driven, end-to-end development
 
 ### 👯 Open to collaborating on
-- AI-enabled B2B, B2C, SaaS products  
-- Developer tooling & automation platforms  
-- Open-source projects around LLM integration, testing, or cloud infrastructure  
+- **AI-enabled SaaS products** and automation platforms  
+- **Developer tooling** and open-source projects around LLM integration or cloud infrastructure  
 
 ### 💬 Ask me about
 - Full-stack architecture & system design  
