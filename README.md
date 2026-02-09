@@ -75,15 +75,22 @@ Git | GitHub | GitLab | npm | VS Code | Postman | Sentry | Vite | Atlassian
 Playwright | Jest | JUnit | Mockito
 
 ### 🤖 AI & Automation
-LLM APIs (OpenAI, Claude, DeepL) | Workflow Automation
-
+LLM APIs (OpenAI, Claude, Google Gemini, DeepL, Hugging Face) | Workflow Automation <br>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/>
+ <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/>
+ <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/>
+ <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" />
+ 
 # 📊 GitHub Stats
 
 ### GitHub Contribution Chart
 <a href="https://github.com/chandrika1993">
     <img src="https://ghchart.rshah.org/chandrika1993" alt="Chandrika Mohan's GitHub Contribution Chart">
-</a>
-
+</a> <br/>
+<a href="https://github.com/hamzaaouni"><img alt="hamzaaouni's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chandrika1993&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chandrika1993&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<br/>
+  
 ![](https://github-readme-stats.vercel.app/api?username=ChandrikaMohan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ChandrikaMohan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandrikaMohan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
