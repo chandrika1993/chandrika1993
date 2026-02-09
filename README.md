@@ -84,18 +84,24 @@ LLM APIs (OpenAI, Claude, Google Gemini, DeepL, Hugging Face) | Workflow Automat
 # 📊 GitHub Stats
 
 ### GitHub Contribution Chart
-<a href="https://github.com/chandrika1993">
-    <img src="https://ghchart.rshah.org/chandrika1993" alt="Chandrika Mohan's GitHub Contribution Chart">
-</a> <br/>
-<a href="https://github.com/chandrika1993"><img alt="chandrika's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chandrika1993&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <!-- <a href="https://github.com/chandrika1993"><img alt="Chandrika's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chandrika1993&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
-<br/>
-  
-![](https://github-readme-stats.vercel.app/api?username=ChandrikaMohan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ChandrikaMohan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandrikaMohan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ 
 
----
-[![](https://visitcount.itsvg.in/api?id=ChandrikaMohan&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: nowrap; gap: 4px;">
+  <!-- Denver stats -->
+  <a href="https://github.com/chandrika1993">
+    <img alt="GitHub Stats (Denvercoder1)" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chandrika1993&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="48%" />
+  </a>
+
+  <!-- Streak stats -->
+  <a href="https://github.com/chandrika1993">
+    <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=chandrika1993&theme=radical&hide_border=false" height="192px" width="48%" />
+  </a>
+</p>
+<a href="https://github.com/chandrika1993"> 
+    <!-- <img src="https://ghchart.rshah.org/chandrika1993" alt="Chandrika Mohan's GitHub Contribution Chart"> -->
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%">
+</a> 
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
