@@ -103,11 +103,11 @@ LLM APIs (OpenAI, Claude, Google Gemini, DeepL, Hugging Face) | Workflow Automat
     <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=chandrika1993&theme=radical&hide_border=false" height="192px" width="48%" />
   </a>
 </p>
-<a href="https://github.com/chandrika1993"> 
-    <!-- <img src="https://ghchart.rshah.org/chandrika1993" alt="Chandrika Mohan's GitHub Contribution Chart"> -->
+<p align="center">
+  <a href="https://github.com/chandrika1993"> 
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%">
 </a> 
-
+</p>
 ---
 
 
