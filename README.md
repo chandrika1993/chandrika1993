@@ -2,6 +2,7 @@
 <h3>Senior Full Stack Engineer · Engineering Team Lead</h3>  
 Full Stack Developer | React | Angular | Ionic | TypeScript | JavaScript | Node.js | Vite | TailwindCSS | Firebase | Java | SpringBoot | Microservices | REST API's
 
+**Portfolio: https://chandrikamohan.com**
 
 # 💫 About Me
 
