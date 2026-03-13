@@ -12,7 +12,7 @@ I have lead engineering teams to deliver production-ready features, integrating 
 ---
 
 ### 🔭 What I’m working on
-- Contributing to **Open Source Repositories** (NextCloud)
+- Contributing to **Open Source Repositories** [NextCloud](https://github.com/nextcloud)
 - **My Portfolio:** https://chandrikamohan.com
 - Building **full-stack web & mobile applications** with TypeScript, React/Angular, Ionic, Node.js, and Google Cloud Platform  
 - Developing **AI-native automation platforms** and **LLM-powered features** for scalable workflows  
