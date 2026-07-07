@@ -48,7 +48,7 @@ I have lead engineering teams to deliver production-ready features, integrating 
 ## 🚀 Key Projects
 - **AI Job Automation (MONA AI)** – Built LLM-powered job offer generator, automated candidate workflows and multiple other features, increasing pipeline velocity 3x
 - **[My ZKE App (Neocosmo GmbH)](https://www.zke-sb.de/artikel_detail/article-6603c826ba620)** - Frontend Development of public facing Ionic App deployed on App Store and Android Store
-- **[Academic Portfolio Website](https://divbhardwaj.com/)** – Developed responsive portfolio with Angular & Firebase; optimized SEO and analytics
+- **[Academic Portfolio Website](https://divyanshubhardwaj.com/)** – Developed responsive portfolio with Angular & Firebase; optimized SEO and analytics
 - **Friend Management System** – Personalized social network with Java/Spring Boot, deployed on PCF Cloud Foundry  
 
 ---
