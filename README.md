@@ -61,7 +61,6 @@ I have lead engineering teams to deliver production-ready features, integrating 
 ### 🖥 Frontend
 Angular | React | Vue | TypeScript | JavaScript | Ionic  
 [![Frontend](https://skillicons.dev/icons?i=angular,react,vue,typescript,javascript)](https://skillicons.dev) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) 
-[![Design](https://skillicons.dev/icons?i=html,css,scss,tailwind,materialui,figma)](https://skillicons.dev)
 
 ### 🎨 Design & UI
 HTML5 | CSS3 | TailwindCSS | Material UI | Figma  
