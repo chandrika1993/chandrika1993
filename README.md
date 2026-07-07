@@ -91,34 +91,26 @@ LLM APIs (OpenAI, Claude, Google Gemini, DeepL, Hugging Face) | Workflow Automat
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/>
  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/>
  <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" />
-
-# 📊 GitHub Stats
-
-### GitHub Contribution Chart
  
+## 📊 GitHub Stats
 
-<p align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: nowrap; gap: 4px;">
-  <!-- Denver stats -->
+<p align="center">
   <a href="https://github.com/chandrika1993">
-    <img alt="GitHub Stats (Denvercoder1)" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chandrika1993&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="190px" width="48%" />
+    <img alt="Chandrika's GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=chandrika1993&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165" />
   </a>
-
-  <!-- Streak stats -->
   <a href="https://github.com/chandrika1993">
-    <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=chandrika1993&theme=radical&hide_border=false" height="192px" width="48%" />
+    <img alt="Top languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrika1993&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="165" />
   </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/chandrika1993"> 
   <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/chandrika1993/chandrika1993/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/chandrika1993/chandrika1993/output/github-contribution-grid-snake.svg"
-    width="100%">
-</picture>
-</a> 
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/mlqz7d8myks6wtveqhem" alt="trackgit-views" />
-</a>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/chandrika1993/chandrika1993/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Contribution snake"
+      src="https://raw.githubusercontent.com/chandrika1993/chandrika1993/output/github-contribution-grid-snake.svg"
+      width="100%">
+  </picture>
 </p>
