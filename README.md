@@ -108,7 +108,13 @@ LLM APIs (OpenAI, Claude, Google Gemini, DeepL, Hugging Face) | Workflow Automat
 </p>
 <p align="center">
   <a href="https://github.com/chandrika1993"> 
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%">
+  <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/chandrika1993/chandrika1993/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/chandrika1993/chandrika1993/output/github-contribution-grid-snake.svg"
+    width="100%">
+</picture>
 </a> 
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/mlqz7d8myks6wtveqhem" alt="trackgit-views" />
