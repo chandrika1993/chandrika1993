@@ -95,17 +95,6 @@ LLM APIs (OpenAI, Claude, Google Gemini, DeepL, Hugging Face) | Workflow Automat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/chandrika1993">
-    <img alt="Chandrika's GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=chandrika1993&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165" />
-  </a>
-  <a href="https://github.com/chandrika1993">
-    <img alt="Top languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrika1993&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="165" />
-  </a>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/chandrika1993/chandrika1993/output/github-contribution-grid-snake-dark.svg">
