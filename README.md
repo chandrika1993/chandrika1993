@@ -48,6 +48,9 @@ I have lead engineering teams to deliver production-ready features, integrating 
 ## 🚀 Key Projects
 - **AI Job Automation (MONA AI)** – Built LLM-powered job offer generator, automated candidate workflows and multiple other features, increasing pipeline velocity 3x
 - **[My ZKE App (Neocosmo GmbH)](https://www.zke-sb.de/artikel_detail/article-6603c826ba620)** - Frontend Development of public facing Ionic App deployed on App Store and Android Store
+- **[Automation Builder Platform](https://github.com/chandrika1993/automation-builder)** – Visual drag-and-drop workflow automation builder (Next.js 15, React, TypeScript, ReactFlow) with PostgreSQL + Prisma persistence, a Zod-validated REST API with pagination and partial updates, workflow validation (cycle & orphan detection), templates, and JSON export/import
+- **[Internal Engineering Metrics Dashboard](https://github.com/chandrika1993/Internal-Engineering-Metrics-Dashboard)** – Full-stack engineering-delivery dashboard (Next.js 15, TypeScript, PostgreSQL, Drizzle ORM) unifying deployment, pull-request, and incident health; replaced an N+1 per-team aggregation pattern (~65 round-trips) with database-side subquery aggregates, server-side pagination, and composite indexes; features cross-team comparison, repository drill-downs, URL-driven shareable filters, and debounced search
+
 - **[Academic Portfolio Website](https://divyanshubhardwaj.com/)** – Developed responsive portfolio with Angular & Firebase; optimized SEO and analytics
 - **Friend Management System** – Personalized social network with Java/Spring Boot, deployed on PCF Cloud Foundry  
 
