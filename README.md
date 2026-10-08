@@ -1,13 +1,13 @@
 <h1><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">Hi, I'm Chandrika </h1>
 <h3>Senior Full Stack Engineer · Engineering Team Lead</h3>  
-Full Stack Developer | React | Angular | Ionic | TypeScript | JavaScript | Node.js | Vite | TailwindCSS | Firebase | Java | SpringBoot | Microservices | REST API's
+Full Stack Developer | React | Angular | Ionic | TypeScript | JavaScript | Node.js | Vite | TailwindCSS | Firebase | Java | SpringBoot | Microservices | REST APIs
 
 **Portfolio: https://chandrikamohan.com**
 
 # 💫 About Me
 
 **Senior Full Stack Engineer & Team Lead** based in Germany 🇩🇪 with 6+ years of experience building scalable web applications and AI-driven automation systems.
-I have lead engineering teams to deliver production-ready features, integrating LLMs and cloud-native architectures, while ensuring reliability, user-centric UX, clean code, and measurable business impact.
+I have led engineering teams to deliver production-ready features, integrating LLMs and cloud-native architectures, while ensuring reliability, user-centric UX, clean code, and measurable business impact.
 
 ---
 
