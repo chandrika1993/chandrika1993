@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">Hi, I'm Chandrika </h1>
 <h3>Senior Full Stack Engineer · Engineering Team Lead</h3>  
-Full Stack Developer | React | Angular | Ionic | TypeScript | JavaScript | Node.js | Vite | TailwindCSS | Firebase | Java | SpringBoot | Microservices | REST APIs
+React | Angular | Ionic | TypeScript | JavaScript | Node.js | Vite | TailwindCSS | Firebase | Java | SpringBoot | Microservices | REST APIs
 
 **Portfolio: https://chandrikamohan.com**
 
